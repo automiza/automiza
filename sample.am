@@ -1,7 +1,8 @@
+
 /**
  * 
  */
-every genaury at 12:00 send {
+every genaury at 12:00 send email {  
   channel: email 
   to: team.
 }
@@ -14,6 +15,13 @@ if user.automiza submit form.visita {
     
   }
   send sms {
-  
+    
   }
 }
+
+if team.marketing write "please help me" on telegram.channel {
+    
+}
+
+if team.development github.automiza.automiza 
+
