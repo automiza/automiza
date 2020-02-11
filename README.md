@@ -11,6 +11,6 @@ every day after sunset send email {
 ```
 
 ```css
-$ curl -d @gratings.am mycompany.automiza.io
+$ curl -d @gratings.am https://mycompany.automiza.io
 ```
 
