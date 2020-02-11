@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+every genaury at 12:00 send {
+  channel: email 
+  to: team.
+}
+
+/**
+ * 
+ */
+if user.automiza submit form.visita {
+  send email {
+    
+  }
+  send sms {
+  
+  }
+}
